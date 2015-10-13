@@ -12,7 +12,7 @@
 			<p>Email:  jeffsaul at me dot com</p>
 			<p>Email:  abqbikerider at gmail dot com</p>
 		<hr>
-		<p>I have been teaching introductory physics and astronomy as a tutor and teacher for over 30 years.  I earned a Ph.D in Physics with a dissertation in physics education research at the Universitiy of Maryland, College Park.  Ny teaching and research have focued on activitypbased learning</p>
+		<p>I have been teaching introductory physics and astronomy as a tutor and teacher for over 30 years.  I earned a Ph.D in Physics with a dissertation in physics education research at the Universitiy of Maryland, College Park.  Ny teaching and research have focued on activity-based learning. </p>
 		<P>I am married to Joy, who is retired and mainly works as an extra and does part-time marketing.  I enjoy</P>
 	</body>
 </html>
