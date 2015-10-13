@@ -5,7 +5,7 @@
 		<title>Jeff Saul</title>
 	</head>
 	<body>
-		<h1>Jeff Saul <br>STEM Education Consultant / Albuquerque Bike Rider</h1>
+		<h1>Jeff Saul <br>STEM Education Consultant / Albuquerque Bike Rider / Deep Dive Student Coder</h1>
 		<h2>Work Email</h2>
 		<p>Email:  scaleup13 at gmail dot com</p>
 		<h2>Personal Email</h2>
